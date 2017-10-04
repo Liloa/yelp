@@ -1,0 +1,38 @@
+.main-background {
+  background: url("https://s3-media1.fl.yelpcdn.com/assets/srv0/yelp_large_assets/469f5b12df16/assets/img/home/hero_photos/ubaw1eG3Pf4qCmKx-pkC4g.jpg") no-repeat center center ;
+  background-size: cover;
+  height: 615px;
+  border:none;
+  box-shadow: none;
+
+
+}
+.mnu{
+  color: white;
+  font-size: 14px;
+  padding: 9px 12px 10px;
+  line-height: 1.28571em;
+  font-weight: 900;
+  background: transparent;
+  margin-top: 25px;
+}
+
+.clr{
+  margin-top: 80px;
+}
+.img-class{
+  color: red;
+}
+
+.pad{
+  padding-bottom: 32px;
+}
+
+.menu-class{
+  background-color: transparent;
+}
+
+.black-background {
+  background-color: #ccc;
+  height: 500px;
+}
